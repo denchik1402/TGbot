@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Необходимые правки захардкожены:
 ```
-TELEGRAM_TOKEN=application в строке 4141  # ваш телеграм токен
+TELEGRAM_TOKEN=application #  в строке 4141  вставьте ваш телеграм токен
 ADMINS=admin    # логины админов через запятую
 ```
 Лучшей практикой будет создать: .env.
